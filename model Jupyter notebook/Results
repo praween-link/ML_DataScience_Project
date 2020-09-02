@@ -1,0 +1,10 @@
+Percentage Acuracy of Outputs:
+
+    1. Linear Regression:
+        0.7700193963069222
+        
+    2. Decision Tree Regressor:
+        0.8313828411907906
+    
+    3. Random Forest Regressor
+        0.8998759615890172
